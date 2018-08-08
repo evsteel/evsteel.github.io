@@ -2,8 +2,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Evan Li'
 SITENAME = 'Arctos Bulletin'
-SITEURL = 'http://evsteel.github.io/'
-GITHUB_URL = 'http://evsteel.github.io/'
+SITEURL = 'https://evsteel.github.io/'
+GITHUB_URL = 'https://evsteel.github.io/'
 TIMEZONE = 'Asia/Shanghai'
 
 PATH = 'content'
